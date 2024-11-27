@@ -1,0 +1,10 @@
+# Ignore SQLTools session files
+*.session.sql
+
+# Ignore temporary and log files
+*.tmp
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
